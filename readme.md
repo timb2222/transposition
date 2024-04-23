@@ -2,10 +2,13 @@
 
 ### How to run 
 
->Run from IDE
+- Run from IDE
+  
+  
+- Run from Terminal  
+> ./mvnw clean package  
 
-> Run from Terminal  
-> 
+> java -jar target/Transposition-1.0-jar-with-dependencies.jar
 
 ### Description:
 
